@@ -1,0 +1,19 @@
+{
+	"folders": [
+		{
+			"path": "D:\\vue_api_server"
+		},
+		{
+			"path": "..\\..\\..\\笔试题"
+		},
+		{
+			"path": "..\\.."
+		},
+		{
+			"path": "D:\\vueserver"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "笔试题"
+	}
+}
